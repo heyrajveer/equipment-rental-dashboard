@@ -3,7 +3,7 @@
 A comprehensive web application for managing equipment rentals, inventory, and maintenance.
 
 ## Live Demo
-[https://incandescent-squirrel-48fe8e.netlify.app/login/]
+[https://login-admin-client-staff-dashboard.netlify.app/]
 
 ## Features
 
