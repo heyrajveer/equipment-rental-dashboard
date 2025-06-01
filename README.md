@@ -4,6 +4,7 @@ A comprehensive web application for managing equipment rentals, inventory, and m
 
 ## Live Demo
 [https://login-admin-client-staff-dashboard.netlify.app/]
+https://github.com/heyrajveer/equipment-rental-dashboard
 
 ## Features
 
